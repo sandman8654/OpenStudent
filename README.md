@@ -1,11 +1,8 @@
 # Student Insights
 
-[![Build Status](https://travis-ci.org/studentinsights/studentinsights.svg?branch=master)](https://travis-ci.org/studentinsights/studentinsights)
-[![Code Climate](https://codeclimate.com/github/studentinsights/studentinsights/badges/gpa.svg)](https://codeclimate.com/github/studentinsights/studentinsights)
-
 Student Insights gives educators an overview of student progress at their school, classroom-level rosters and individual student profiles.  It also allows them to capture interventions and notes during weekly or bi-weekly student support meetings focused on the most at-risk students.  It’s currently in use at the pilot elementary school in Somerville.
 
-Check out the [demo site](https://somerville-teacher-tool-demo.herokuapp.com/):
+Check out the [demo site](https://oopenstudent.herokuapp.com/):
   - username: `demo@example.com`
   - password: `demo-password`
 
@@ -109,7 +106,7 @@ Argenziano | :white_check_mark: | |
 Winter Hill | :white_check_mark: | |
 
 # Project priorities
-Priorites are tracked in GitHub with [milestones](https://github.com/studentinsights/studentinsights/milestones).
+Priorites are tracked in GitHub with [milestones](https://github.com/sandman8654/openstudent/milestones).
 
 __Expansion goal:__
 
