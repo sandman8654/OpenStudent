@@ -1,8 +1,8 @@
-# Student Insights
+# OpenStudent Information
 
-Student Insights gives educators an overview of student progress at their school, classroom-level rosters and individual student profiles.  It also allows them to capture interventions and notes during weekly or bi-weekly student support meetings focused on the most at-risk students.  It’s currently in use at the pilot elementary school in Somerville.
+OpenStudent Infomation gives educators an overview of student progress at their school, classroom-level rosters and individual student profiles.  It also allows them to capture interventions and notes during weekly or bi-weekly student support meetings focused on the most at-risk students.  It’s currently in use at the pilot elementary school in Somerville.
 
-Check out the [demo site](https://oopenstudent.herokuapp.com/):
+Check out the [demo site](https://openstudent.herokuapp.com/):
   - username: `demo@example.com`
   - password: `demo-password`
 
