@@ -6,8 +6,6 @@ Check out the [demo site](https://openstudent.herokuapp.com/):
   - username: `demo@example.com`
   - password: `demo-password`
 
-Our presentation at [Code for Boston demo night](docs/readme_images/Student%20Insights%20-%20Demo%20Night%20slides.pdf) in May 2016 also has a good product overview.
-
 <!-- UPDATE WITH DOCTOC: $ doctoc README.md -->
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -79,7 +77,7 @@ Student profiles also contain the full case history of demographic information, 
 
 ![Profile](docs/readme_images/profile-full-case-history-screenshot.png)
 
-We're working on some big improvements to the student profile page right now, check out [#5](https://github.com/studentinsights/studentinsights/issues/5) for more background.
+We're working on some big improvements to the student profile page right now, check out [#5](https://github.com/sandman8654/openstudent/issues/5) for more background.
 
 
 ### Capturing meeting notes and interventions
@@ -231,7 +229,7 @@ var ProductTable = React.createClass({
 
 There are also a few places where we use [Flux](https://facebook.github.io/flux/docs/overview.html) patterns.
 
-If you use **Sublime Text Editor**, we include the `studentinsights.sublime-project` file to standardize minor things like tabs vs. spaces, indentation, and generally make it easier to work with our folder structure. Go to `Project --> Open Project` and select that file to load it. Sublime remembers which project you were last in, so you only need to do this once. ([Here](http://www.joshuawinn.com/understanding-projects-in-sublime-text-saving-switching-etc/)'s some background info on how projects work in Sublime).
+
 
 # Browser/OS Targeting
 

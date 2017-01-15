@@ -1,9 +1,9 @@
-## Onboarding A Somerville School To Student Insights
+## Onboarding A Somerville School To Open Student
 
-_These are based on the [user personas](https://github.com/studentinsights/studentinsights#user-personas-who-were-serving) we are serving. The primary focus at this stage is Principals._
+_These are based on the [user personas](https://github.com/openstudent/openstudent#user-personas-who-were-serving) we are serving. The primary focus at this stage is Principals._
 
 + [ ] Meet with the principal:
-  + [ ] Give overview of Student Insights: [Project goals](https://github.com/studentinsights/studentinsights#student-insights), [User personas](https://github.com/studentinsights/studentinsights#user-personas-who-were-serving), [Product features](https://github.com/studentinsights/studentinsights#product-overview-how-were-helping), [Development priorities](https://github.com/studentinsights/studentinsights#project-priorities)
+  + [ ] Give overview of Student Insights: [Project goals](https://github.com/openstudent/openstudent#student-insights), [User personas](https://github.com/openstudent/openstudent#user-personas-who-were-serving), [Product features](https://github.com/openstudent/openstudent#product-overview-how-were-helping), [Development priorities](https://github.com/openstudent/openstudent#project-priorities)
   + [ ] Show principal what the school overview page and STAR graphs for her/his school look like
   + [ ] Ask principal what kind of data queries s/he asks for or produces most often
   + [ ] Ask principal what data processes need improvement within her/his school

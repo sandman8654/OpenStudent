@@ -1,6 +1,6 @@
 # People
 
-Student Insights is a collaboration. Educators and administrators at the Somerville Public Schools are teaming up with technologists and community members who want to help the school system and its students.
+Open Student is a collaboration. Educators and administrators at the Somerville Public Schools are teaming up with technologists and community members who want to help the school system and its students.
 
 Here are a few members of the Student Insights team:
 
