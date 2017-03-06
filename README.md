@@ -301,8 +301,6 @@ The project can also be deployed on AWS.  There's a starting point for provision
 /scripts/aws/
 ```
 
-Scripts by the fantastic [Kevin Robinson](https://github.com/kevinrobinson).
-
 # Other Tools
 ## Mixpanel
 
