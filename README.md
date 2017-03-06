@@ -310,6 +310,4 @@ We use [Mixpanel](https://mixpanel.com) to track user interactions on the client
 
 # More information
 
-- [Drop into the #somerville-schools chat](https://cfb-public.slack.com/messages/somerville-schools/) on [Code for Boston Slack](http://public.codeforboston.org/)
-- Connect with [Alex](https://twitter.com/alexsoble) or [Kevin](https://twitter.com/krob) on Twitter or with @eli-rose on Code for Boston Slack
 - More docs in the `docs` folder!
